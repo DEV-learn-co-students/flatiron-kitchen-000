@@ -11,6 +11,7 @@ assessments:
   - fork
   - local build
   - pull request
+  - remote build
 module: Building complete apps
 level: intermediate
 resources: 2
