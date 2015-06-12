@@ -8,7 +8,6 @@ tags:
 languages:
   - ruby
 assessments:
-  - fork
   - pull request
   - signature
 module: Building complete apps
