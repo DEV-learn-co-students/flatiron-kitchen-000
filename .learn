@@ -9,8 +9,8 @@ languages:
   - ruby
 assessments:
   - fork
-  - local build
   - pull request
+  - signature
 module: Building complete apps
 level: intermediate
 resources: 2
